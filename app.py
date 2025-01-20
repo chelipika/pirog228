@@ -27,7 +27,8 @@ session = requests.Session()
 
 for person in loggins:
     # Log in
-    head = user_agent_list[randint(0,11)]
+    head = {'User-Agent': user_agent_list[randint(0,11)]}
+    print(head)
     response = session.post(url, data=person, headers=head)
     print(f'Статус входа для {person["login"]}:', response.status_code)
     
@@ -40,4 +41,3 @@ for person in loggins:
     print(f'Статус выхода для {person["login"]}:', response.status_code)
     
     # Wait 5 seconds before next login
-    
