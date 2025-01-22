@@ -12,7 +12,14 @@ user_agent_list = [
 loggins = [
     {'login': "zhasurpirmatov", 'password': "7*2iYQFq@M+zFRq"},
     {'login': 'barnokhonmetinova', 'password': '123456#'},
-    {'login': 'abdurakhimkaiumov', 'password': 'uchenik7v'}
+    {'login': 'abdurakhimkaiumov', 'password': 'uchenik7v'},
+    {'login': 'khusniddinkazakov', 'password': '123456#'},
+    {'login': 'mirzarakhmatovam', 'password': 'uchenik7v'},
+    {'login': 'muslimafaizullaeva20', 'password': '12345678'},
+    {'login': 'mustafobekibrokhimov', 'password': 'mustafo11V'},
+    {'login': 'zliumova', 'password': 'uchenik7v'},
+    {'login': 'shokhsanamisomiddino', 'password': 'uchenik7v'},
+    {'login': 'sharipov_sherzodbek', 'password': '123456#'}
 ]
 
 url = 'https://login.emaktab.uz/login'
