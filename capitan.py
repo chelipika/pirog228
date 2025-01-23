@@ -19,7 +19,9 @@ loggins = [
     {'login': 'mustafobekibrokhimov', 'password': 'mustafo11V'},
     {'login': 'zliumova', 'password': 'uchenik7v'},
     {'login': 'shokhsanamisomiddino', 'password': 'uchenik7v'},
-    {'login': 'sharipov_sherzodbek', 'password': '123456#'}
+    {'login': 'sharipov_sherzodbek', 'password': '123456#'},
+    {'login': 'mukhammadzhanovamali', 'password': '12345678'},
+    {'login': 'obydolimzhanov', 'password': '05052007'}
 ]
 
 url = 'https://login.emaktab.uz/login'
